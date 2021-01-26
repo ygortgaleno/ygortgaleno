@@ -2,7 +2,9 @@
 [![Linkedin](https://img.shields.io/badge/Ygor%20Galeno%20-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ygor-torres-galeno-423883139/)
 
 
-I'm a Software Engineer graduating at University of Brasilia, that I've been working as backend developer since 2016, currently I'm Backend Engineer at Klickpages
+I'm majoring in Software Engineer at University of Brasilia. 
+
+I've been working as backend developer since 2016 and currently I'm Backend Engineer at Klickpages
 
 
  
@@ -23,6 +25,7 @@ I'm a Software Engineer graduating at University of Brasilia, that I've been wor
 - Docker
 - Bitbucket/gitlab/github pipelines
 - RabbitMQ
+- Redis
 - Postgres
 - Amazon web services
 - New relic
