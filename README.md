@@ -4,7 +4,7 @@
 
 I'm majoring in Software Engineer at University of Brasilia. 
 
-I've been working as backend developer since 2016 and currently I'm Backend Engineer at Klickpages
+I've been working as backend developer since 2016
 
 
  
